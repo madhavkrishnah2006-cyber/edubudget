@@ -1,0 +1,37 @@
+{
+  "exams_generated": 1,
+  "history": {
+    "2026-03": {
+      "income": 0.0,
+      "savings_goal": 0.0,
+      "total_expense": 0.0,
+      "remaining": 0.0,
+      "highest_cat": "Food",
+      "highest_amt": 0.0,
+      "cat_totals": {
+        "Food": 0.0,
+        "Cinema": 0.0,
+        "Shopping": 0.0,
+        "Travel": 0.0,
+        "Rent": 0.0,
+        "Utilities": 0.0
+      },
+      "saved_at": "2026-03-03T08:04:32.587838"
+    }
+  },
+  "api_key": "",
+  "budget": {
+    "month": "2026-03",
+    "income": 0.0,
+    "savings_goal": 0.0,
+    "categories": {
+      "Food": 0.0,
+      "Cinema": 0.0,
+      "Shopping": 0.0,
+      "Travel": 0.0,
+      "Rent": 0.0,
+      "Utilities": 0.0
+    },
+    "custom_expenses": []
+  }
+}

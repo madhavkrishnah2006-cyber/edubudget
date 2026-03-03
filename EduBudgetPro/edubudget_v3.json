@@ -1,0 +1,58 @@
+{
+  "exams_generated": 7,
+  "api_key": "",
+  "history": {
+    "2026-03": {
+      "income": 100000.0,
+      "savings_goal": 60000.0,
+      "total_expense": 13900.0,
+      "remaining": 26100.0,
+      "highest_cat": "Food",
+      "highest_amt": 4000.0,
+      "cat_totals": {
+        "Food": 4000.0,
+        "Rent": 1500.0,
+        "Transport": 3600.0,
+        "Shopping": 1200.0,
+        "Utilities": 3600.0
+      },
+      "saved_at": "2026-03-03T10:51:11.884960"
+    },
+    "2026-02": {
+      "income": 100000.0,
+      "savings_goal": 40000.0,
+      "total_expense": 34000.0,
+      "remaining": 26000.0,
+      "highest_cat": "Rent",
+      "highest_amt": 15400.0,
+      "cat_totals": {
+        "Food": 5800.0,
+        "Rent": 15400.0,
+        "Transport": 5400.0,
+        "Shopping": 2000.0,
+        "Utilities": 5400.0
+      },
+      "saved_at": "2026-03-03T10:52:33.876472"
+    }
+  },
+  "budget": {
+    "month": "2026-02",
+    "income": 100000.0,
+    "savings_goal": 40000.0,
+    "active_categories": [
+      "Food",
+      "Rent",
+      "Transport",
+      "Shopping",
+      "Utilities"
+    ],
+    "expenses": {
+      "Food": 5800.0,
+      "Rent": 15400.0,
+      "Transport": 5400.0,
+      "Shopping": 2000.0,
+      "Utilities": 5400.0
+    },
+    "custom_expenses": []
+  }
+}
